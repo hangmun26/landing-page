@@ -18,7 +18,7 @@ const Navbar = () => {
             <div className="w-10 h-10 bg-gradient-to-br from-blue-500 to-purple-600 rounded-xl flex items-center justify-center">
               <Zap className="text-white" size={20} />
             </div>
-            <span className="text-white font-bold text-xl">TechFlow</span>
+            <span className="text-white font-bold text-xl">Hao Nguyen Duy</span>
           </div>
           
           {/* Desktop Menu */}
